@@ -1,0 +1,1 @@
+# quarkus-gradle-rest-swagger
